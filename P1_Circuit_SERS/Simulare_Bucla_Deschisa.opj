@@ -1,0 +1,86 @@
+(ExpressProject "Simulare_Bucla_Deschisa"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\simulare_bucla_deschisa.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Outputs"
+    (File ".\simulare_bucla_deschisa-pspicefiles\schematic1\schematic1.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile
+         ".\simulare_bucla_deschisa-pspicefiles\schematic1\amplificare.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\simulare_bucla_deschisa-pspicefiles\schematic1\amplificare.sim"
+        (DisplayName "SCHEMATIC1-amplificare")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File
+         "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\MJD31CG.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\MJD31CG.lib"))
+      (File
+         "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\BZX84C2V7.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\BZX84C2V7.lib"))
+      (File
+         "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\BC856B.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\BC856B.lib"))
+      (File
+         "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\BC846B.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\BC846B.lib"))
+      (File
+         "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\1N4148.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName
+           "C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Lib_ModelePSpice_Anexa_1\Modele_A1_lib\1N4148.lib")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName "D:\ORCAD\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "D:\ORCAD\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (VAC
+      (FullPartName "VAC.Normal")
+      (LibraryName "D:\ORCAD\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\cosmin\desktop\p1_2024_434d_antoci_george-cosmin_sers_n1_orcad\schematics\p1_circuit_sers\simulare_bucla_deschisa.dsn")
+      (Path "Design Resources"
+         "c:\users\cosmin\desktop\p1_2024_434d_antoci_george-cosmin_sers_n1_orcad\schematics\p1_circuit_sers\simulare_bucla_deschisa.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\users\cosmin\desktop\p1_2024_434d_antoci_george-cosmin_sers_n1_orcad\schematics\p1_circuit_sers\simulare_bucla_deschisa.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 274"))
+      (Tab 0)))
+  (MPSSessionName "Cosmin"))

@@ -1,0 +1,88 @@
+
+**** 11/21/24 17:47:03 ******* PSpice Lite (March 2016) ******* ID# 10813 ****
+
+ ** Profile: "SCHEMATIC1-amplificare"  [ c:\users\cosmin\desktop\p1_2024_434d_antoci_george-cosmin_sers_n1_orcad\schematics\p1_circui
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "amplificare.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/MJD31CG.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BZX84C2V7.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BC856B.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BC846B.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/1N4148.lib" 
+* From [PSPICE NETLIST] section of D:\Proiecte Orcad\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.AC DEC 100 0 100k
+------------$
+ERROR(ORPSIM-16103): Invalid value
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source SIMULARE_BUCLA_DESCHISA
+R_R60         0 N207891  150 TC=0,0 
+R_R41         N207549 N207163  47k TC=0,0 
+R_R55         N207105 N206789  680 TC=0,0 
+Q_Q1         N207163 N207009 N206937 QBC856B 
+Q_Q9         N207003 N206769 N206789 QBC846B 
+Q_Q10         N207003 N207847 0 QBC846B 
+Q_Q2         N207149 N207549 N207585 QBC846B 
+X_RSET         N207593 N208301 N207405 POT PARAMS: SET={SETVAL} VALUE=2k
+R_R42         0 N207549  47k TC=0,0 
+X_D6         N206657 N207415 LED PARAMS: IS=3.9573e-019 RS=2  BV=5 IBV=10e-6   
++       
+Q_Q5         N207149 N207097 N206657 QBC856B 
+D_D1         0 N207163 BZX84-C2V7 
+X_R51         N207709 N207847 0 POT PARAMS: SET=0.6 VALUE=1k
+R_R57         0 N2071791  22k TC=0,0 
+R_R58         0 N207415  220 TC=0,0 
+R_R6         N207585 0 330
+Q_Q4         N207097 N207097 N206657 QBC856B 
+R_R47         0 N207303  510 TC=0,0 
+Q_Q3         N207097 N208294 N207585 QBC846B 
+R_R56         N207891 N207719  1k TC=0,0 
+D_D3         N206873 N207009 D1N4148 
+D_D2         N206657 N206873 D1N4148 
+X_D7         N206789 N207239 LED PARAMS: IS=3.9573e-019 RS=2  BV=5 IBV=10e-6   
++       
+R_RL         0 N206789  {Rload} TC=0,0 
+R_R59         0 N207239  51 TC=0,0 
+Q_Q11         N206657 N206847 N206769 QMJD31C 
+Q_Q7         N206657 N207003 N206847 QBC846B 
+V_V2         N206657 0 4Vdc
+R_R2         N2071791 N207009  22k TC=0,0 
+R_R53         N206783 N206789  1 TC=0,0 
+R_R50         N207303 N207003  100 TC=0,0 
+R_R54         N207405 N2071991  4.7k TC=0,0 
+R_R49         N207163 N207709  2.7k TC=0,0 
+R_R1         N206937 N206657  33 TC=0,0 
+R_R5         N207719 N207593  6.8k TC=0,0 
+R_R4         N2071991 N207105  100 TC=0,0 
+R_R7         N206783 N206769  0.47 TC=0,0 
+Q_Q6         N207303 N207149 N206657 QBC856B 
+V_V4         N208305 0 DC 0Vdc AC 1Vac 
+C_C1         N208305 N208294  0.1  TC=0,0 
+L_L1         N208294 N208301  0.1  
+.PARAM  setval=0 rload=40
+
+**** RESUMING amplificare.cir ****
+.END
+

@@ -1,0 +1,24 @@
+** Profile: "SCHEMATIC1-amplificare"  [ c:\users\cosmin\desktop\p1_2024_434d_antoci_george-cosmin_sers_n1_orcad\schematics\p1_circuit_sers\simulare_bucla_deschisa-pspicefiles\schematic1\amplificare.sim ] 
+
+** Creating circuit file "amplificare.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/MJD31CG.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BZX84C2V7.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BC856B.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BC846B.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/1N4148.lib" 
+* From [PSPICE NETLIST] section of D:\Proiecte Orcad\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.AC DEC 100 1 100k
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

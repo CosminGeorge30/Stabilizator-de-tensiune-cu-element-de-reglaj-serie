@@ -1,0 +1,24 @@
+** Profile: "SCHEMATIC1-Vin"  [ C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Schematics\P1_Circuit_SERS\sers_n1-pspicefiles\schematic1\vin.sim ] 
+
+** Creating circuit file "Vin.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/MJD31CG.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BZX84C2V7.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BC856B.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BC846B.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/1N4148.lib" 
+* From [PSPICE NETLIST] section of D:\Proiecte Orcad\cdssetup\OrCAD_PSpice\17.2.0\PSpice.ini file:
+.lib "nomd.lib" 
+
+*Analysis directives: 
+.DC LIN V_V2 0 4.5 0.01 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END

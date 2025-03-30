@@ -1,0 +1,221 @@
+
+**** 01/18/25 22:04:13 **** PSpice 24.1.0 (22 October 2024) *** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Schematics\P1_Circui
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "temperatura.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/MJD31CG.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BZX84C2V7.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BC856B.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/BC846B.lib" 
+.LIB "C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Lib_ModelePSpice_Anexa_1/Modele_A1_lib/1N4148.lib" 
+* From [PSPICE NETLIST] section of D:\Proiecte Orcad\cdssetup\OrCAD_PSpice\24.1.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.DC LIN TEMP 0 160 0.1 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source SERS_N1
+Q_Q10         N197991 N198809 0 QBC846B 
+R_R58         0 N198403  220 TC=0,0 
+D_D3         N197861 N197997 D1N4148 
+R_R1         N197925 N197647  33 TC=0,0 
+R_R56         N205397 N205284  1k TC=0,0 
+D_D2         N197647 N197861 D1N4148 
+Q_Q7         N197647 N197991 N197835 QBC846B 
+Q_Q2         N198137 N198537 N198573 QBC846B 
+R_R49         N198151 N198677  2k TC=0,0 
+Q_Q5         N198137 N198085 N197647 QBC856B 
+V_V2         N197647 0 4Vdc
+Q_Q4         N198085 N198085 N197647 QBC856B 
+R_RL         0 N197779  {Rload} TC=0,0 
+Q_Q1         N198151 N197997 N197925 QBC856B 
+R_R5         N205284 N198581  6.8k TC=0,0 
+R_R53         N197773 N197779  1 TC=0,0 
+D_D1         0 N198151 BZX84-C2V7 
+R_R50         N198291 N197991  100 TC=0,0 
+R_R2         N1981671 N197997  22k TC=0,0 
+R_R7         N197773 N197759  0.47 TC=0,0 
+R_R57         0 N1981671  22k TC=0,0 
+Q_Q9         N197991 N197759 N197779 QBC846B 
+R_R4         N1981871 N198093  100 TC=0,0 
+R_R42         0 N198537  47k TC=0,0 
+X_D7         N197779 N198227 LED PARAMS: IS=3.9573e-019 RS=2  BV=5 IBV=10e-6   
++       
+X_RSET         N198581 N198547 N198393 POT PARAMS: SET={SETVAL} VALUE=2k
+X_D6         N197647 N198403 LED PARAMS: IS=3.9573e-019 RS=2  BV=5 IBV=10e-6   
++       
+R_R59         0 N198227  51 TC=0,0 
+R_R55         N198093 N197779  680 TC=0,0 
+X_R51         N198677 N198809 0 POT PARAMS: SET=0.44 VALUE=2k
+Q_Q6         N198291 N198137 N197647 QBC856B 
+R_R6         N198573 0 330
+R_R47         0 N198291  510 TC=0,0 
+R_R54         N198393 N1981871  4.7k TC=0,0 
+R_R41         N198537 N198151  47k TC=0,0 
+Q_Q3         N198085 N198547 N198573 QBC846B 
+Q_Q11         N197647 N197835 N197759 QMJD31C 
+R_R60         0 N205397  150 TC=0,0 
+.PARAM  setval=0 rload=40
+
+**** RESUMING temperatura.cir ****
+.END
+
+WARNING(ORPSIM-15246): Library index file MJD31CG.ind does not have the correct format
+
+INFO(ORPSIM-15422): Making new index file MJD31CG.ind for library file MJD31CG.lib.
+
+Index has 1 entries from 1 file(s).
+
+
+WARNING(ORPSIM-15246): Library index file BZX84C2V7.ind does not have the correct format
+
+INFO(ORPSIM-15422): Making new index file BZX84C2V7.ind for library file BZX84C2V7.lib.
+
+Index has 1 entries from 1 file(s).
+
+
+WARNING(ORPSIM-15246): Library index file BC856B.ind does not have the correct format
+
+INFO(ORPSIM-15422): Making new index file BC856B.ind for library file BC856B.lib.
+
+Index has 1 entries from 1 file(s).
+
+
+WARNING(ORPSIM-15246): Library index file BC846B.ind does not have the correct format
+
+INFO(ORPSIM-15422): Making new index file BC846B.ind for library file BC846B.lib.
+
+Index has 1 entries from 1 file(s).
+
+
+WARNING(ORPSIM-15246): Library index file 1N4148.ind does not have the correct format
+
+INFO(ORPSIM-15422): Making new index file 1N4148.ind for library file 1N4148.lib.
+
+Index has 1 entries from 1 file(s).
+
+**** 01/18/25 22:04:13 **** PSpice 24.1.0 (22 October 2024) *** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Schematics\P1_Circui
+
+
+ ****     Diode MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               BZX84-C2V7      D1N4148         X_D7.model201   X_D6.model201   
+          IS  110.880000E-18    2.682000E-09  395.730000E-21  395.730000E-21 
+           N     .92657         1.836           2               2            
+         ISR    1.515900E-06    1.565000E-09                                 
+         IKF  147.68             .04417                                      
+          BV    2.7639        100               5               5            
+         IBV     .06977       100.000000E-06   10.000000E-06   10.000000E-06 
+          RS     .85899          .5664          2               2            
+          TT   17.889000E-09   11.540000E-09                                 
+         CJO  344.690000E-12    4.000000E-12                                 
+          VJ     .72935          .5                                          
+           M     .31964          .3333                                       
+
+
+**** 01/18/25 22:04:13 **** PSpice 24.1.0 (22 October 2024) *** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Schematics\P1_Circui
+
+
+ ****     BJT MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               QMJD31C         QBC856B         QBC846B         
+               NPN             PNP             NPN             
+       LEVEL    1               1               1            
+          IS   90.620200E-12   20.140000E-15   18.220000E-15 
+          EG    1.05                                         
+          BF    3.418700E+03  315.3           324.4          
+          NF    1.17603          .9974           .9932       
+         VAF   29.2393         39.15           82            
+         IKF     .108267         .079            .109        
+         ISE  537.193000E-09    6.578000E-15  289.400000E-18 
+          NE    4               1.45            1.4          
+          BR  367.353           8.68            8.29         
+          NR    5                .9952           .9931       
+         VAR    1.631           9.5            17.9          
+         IKR    1.15207          .09             .09         
+         ISC    1.157540E-09   16.330000E-15    9.982000E-12 
+          NC    1.49179         1.15            1.763        
+         ISS    0               0               0            
+          RB   22.4853         10              10            
+         RBM    1.000000E-12    5.000000E-06    5            
+         IRB    2.209370E-03    5.000000E-06    5.000000E-06 
+          RE  100.000000E-06     .663            .649        
+          RC     .138633         .718            .7014       
+         CJE  373.889000E-12   11.350000E-12   12.440000E-12 
+         VJE     .67672          .7071           .7579       
+         MJE     .575056         .3808           .3656       
+         CJC  352.510000E-12    6.395000E-12    3.347000E-12 
+         VJC     .884306         .4951           .5463       
+         MJC     .473486         .44             .391        
+        XCJC     .1              .6288           .6193       
+         CJS    0               0               0            
+         VJS     .75             .75             .75         
+         MJS     .5              .333            .333        
+          FC     .8              .9059           .979        
+          TF   10.000000E-09  654.600000E-12  490.800000E-12 
+         XTF    3.4926          5.387           9.51         
+         VTF   12.6615          6.245           2.927        
+         ITF     .052395         .2108           .3131       
+          TR    3.298030E-06   55.000000E-09   90.000000E-09 
+         XTB  999.997000E-15                                 
+         XTI    1.000000E-12                                 
+          KF    0               0               0            
+          AF    1               1               1            
+          CN    2.42            2.2             2.42         
+           D     .87             .52             .87         
+
+
+
+          JOB CONCLUDED
+
+**** 01/18/25 22:04:13 **** PSpice 24.1.0 (22 October 2024) *** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-temperatura"  [ C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Schematics\P1_Circui
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .56
+
