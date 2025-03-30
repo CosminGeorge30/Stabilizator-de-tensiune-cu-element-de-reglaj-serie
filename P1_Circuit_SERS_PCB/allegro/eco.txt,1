@@ -1,0 +1,351 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/P1_Antoci/B - Proiect/allegro/P1_PCB.brd                                 |
+|                                                    Sat Dec 14 10:14:42 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 R9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 D5.1           J1.2           J2.1           
+                                 P2.C1          Q10.2          R12.1          
+                                 R15.1          R18.1          R19.1          
+                                 R21.1          R22.2          R23.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206693      pins ADDED TO this new net
+                                 Q1.3           Q2.1           R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206707      pins ADDED TO this new net
+                                 R1.1           R2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206771      pins ADDED TO this new net
+                                 Q1.1           Q3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206797      pins ADDED TO this new net
+                                 D1.2           D2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206861      pins ADDED TO this new net
+                                 Q4.2           R3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206929      pins ADDED TO this new net
+                                 Q2.3           Q3.1           Q10.3          
+                                 R11.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N206935      pins ADDED TO this new net
+                                 D2.2           Q4.1           R6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207023      pins ADDED TO this new net
+                                 Q5.1           Q6.1           Q6.3           
+                                 Q9.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207031      pins ADDED TO this new net
+                                 R5.1           R7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207075      pins ADDED TO this new net
+                                 Q5.3           Q7.1           Q8.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207089      pins ADDED TO this new net
+                                 D5.3           Q4.3           R13.2          
+                                 R16.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/P1_Antoci/B - Proiect/allegro/P1_PCB.brd                                 |
+|                                                    Sat Dec 14 10:14:42 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N207165      pins ADDED TO this new net
+                                 D3.C           R12.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207229      pins ADDED TO this new net
+                                 Q7.3           R11.1          R19.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207333      pins ADDED TO this new net
+                                 P1.C1          R10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207343      pins ADDED TO this new net
+                                 D4.C           R15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207477      pins ADDED TO this new net
+                                 Q8.1           R13.1          R18.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207487      pins ADDED TO this new net
+                                 P1.B1          Q9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207513      pins ADDED TO this new net
+                                 Q8.2           Q9.2           R22.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207521      pins ADDED TO this new net
+                                 P1.A1          R17.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207637      pins ADDED TO this new net
+                                 P2.A1          R16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207647      pins ADDED TO this new net
+                                 R17.1          R20.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207775      pins ADDED TO this new net
+                                 P2.B1          Q10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N207819      pins ADDED TO this new net
+                                 R20.1          R23.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N209229      pins ADDED TO this new net
+                                 R4.1           R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N209233      pins ADDED TO this new net
+                                 R8.1           R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N209246      pins ADDED TO this new net
+                                 R14.1          R21.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/P1_Antoci/B - Proiect/allegro/P1_PCB.brd                                 |
+|                                                    Sat Dec 14 10:14:42 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N2071051     pins ADDED TO this new net
+                                 R6.1           R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N2071251     pins ADDED TO this new net
+                                 R7.1           R10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VIN          pins ADDED TO this new net
+                                 D1.1           D4.A           J2.2           
+                                 Q1.4           Q3.3           Q5.2           
+                                 Q6.2           Q7.2           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VOUT         pins ADDED TO this new net
+                                 D3.A           J1.1           Q2.2           
+                                 R2.2           R4.2           R5.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/P1_Antoci/B - Proiect/allegro/P1_PCB.brd                                 |
+|                                                    Sat Dec 14 10:14:42 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BZX84-C2V7_1_SOT95P230X110-3N_B
+ CON2_SMR2512_CON2
+ D1N4148_DIOC2012X95N_D1N4148
+ LED_0_DIOM2012X160M_5V,SMD2012B
+ POT_2_TS53YL202MR10_2K
+ QBC846B_0_SOT95P230X110-3N_QBC8
+ QBC856B_0_SOT95P230X110-3N_QBC8
+ QMJD31C_2_TO229P990X238-4N_QMJD
+ R_RESC2013X65N_0.47
+ R_RESC2013X65N_1K
+ R_RESC2013X65N_2K
+ R_RESC2013X65N_4.7K
+ R_RESC2013X65N_6.8K
+ R_RESC2013X65N_22K
+ R_RESC2013X65N_47K
+ R_RESC2013X65N_1
+ R_RESC2013X65N_10
+ R_RESC2013X65N_33
+ R_RESC2013X65N_51
+ R_RESC2013X65N_100
+ R_RESC2013X65N_150
+ R_RESC2013X65N_220
+ R_RESC2013X65N_330
+ R_RESC2013X65N_510
+ R_RESC2013X65N_680
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/P1_Antoci/B - Proiect/allegro/P1_PCB.brd                                 |
+|                                                    Sat Dec 14 10:14:42 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D1                  D1N4148_DIOC2012X95N_D1N4148 
+ D2                  D1N4148_DIOC2012X95N_D1N4148 
+ D3                  LED_0_DIOM2012X160M_5V,SMD2012B 
+ D4                  LED_0_DIOM2012X160M_5V,SMD2012B 
+ D5                  BZX84-C2V7_1_SOT95P230X110-3N_B 
+ J1                  CON2_SMR2512_CON2     
+ J2                  CON2_SMR2512_CON2     
+ P1                  POT_2_TS53YL202MR10_2K 
+ P2                  POT_2_TS53YL202MR10_2K 
+ Q1                  QMJD31C_2_TO229P990X238-4N_QMJD 
+ Q2                  QBC846B_0_SOT95P230X110-3N_QBC8 
+ Q3                  QBC846B_0_SOT95P230X110-3N_QBC8 
+ Q4                  QBC856B_0_SOT95P230X110-3N_QBC8 
+ Q5                  QBC856B_0_SOT95P230X110-3N_QBC8 
+ Q6                  QBC856B_0_SOT95P230X110-3N_QBC8 
+ Q7                  QBC856B_0_SOT95P230X110-3N_QBC8 
+ Q8                  QBC846B_0_SOT95P230X110-3N_QBC8 
+ Q9                  QBC846B_0_SOT95P230X110-3N_QBC8 
+ Q10                 QBC846B_0_SOT95P230X110-3N_QBC8 
+ R1                  R_RESC2013X65N_0.47   
+ R2                  R_RESC2013X65N_1      
+ R3                  R_RESC2013X65N_33     
+ R4                  R_RESC2013X65N_10     
+ R5                  R_RESC2013X65N_680    
+ R6                  R_RESC2013X65N_22K    
+ R7                  R_RESC2013X65N_100    
+ R8                  R_RESC2013X65N_10     
+ R9                  R_RESC2013X65N_22K    
+ R10                 R_RESC2013X65N_4.7K   
+ R11                 R_RESC2013X65N_100    
+ R12                 R_RESC2013X65N_51     
+ R13                 R_RESC2013X65N_47K    
+ R14                 R_RESC2013X65N_10     
+ R15                 R_RESC2013X65N_220    
+ R16                 R_RESC2013X65N_2K     
+ R17                 R_RESC2013X65N_6.8K   
+ R18                 R_RESC2013X65N_47K    
+ R19                 R_RESC2013X65N_510    
+ R20                 R_RESC2013X65N_1K     
+ R21                 R_RESC2013X65N_10     
+ R22                 R_RESC2013X65N_330    
+ R23                 R_RESC2013X65N_150    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:/P1_Antoci/B - Proiect/allegro/P1_PCB.brd                                 |
+|                                                    Sat Dec 14 10:14:42 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D1.2                           XY             (200,60)
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           XY             (200,100)
+ D3.C                           PRIM_FILE      .\pstchip.dat
+ D3.C                           XY             (810,140)
+ D4.C                           PRIM_FILE      .\pstchip.dat
+ D4.C                           XY             (100,190)
+ D5.2                           PRIM_FILE      .\pstchip.dat
+ D5.2                           XY             (140,380)
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           XY             (920,40)
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           XY             (10,50)
+ P1.C1                          PRIM_FILE      .\pstchip.dat
+ P1.C1                          XY             (740,250)
+ P2.C1                          PRIM_FILE      .\pstchip.dat
+ P2.C1                          XY             (570,350)
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q1.2                           XY             (570,30)
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           XY             (700,80)
+ Q3.2                           PRIM_FILE      .\pstchip.dat
+ Q3.2                           XY             (550,90)
+ Q4.2                           PRIM_FILE      .\pstchip.dat
+ Q4.2                           XY             (150,130)
+ Q5.2                           PRIM_FILE      .\pstchip.dat
+ Q5.2                           XY             (260,120)
+ Q6.2                           PRIM_FILE      .\pstchip.dat
+ Q6.2                           XY             (360,120)
+ Q7.2                           PRIM_FILE      .\pstchip.dat
+ Q7.2                           XY             (460,170)
+ Q8.2                           PRIM_FILE      .\pstchip.dat
+ Q8.2                           XY             (240,250)
+ Q9.2                           PRIM_FILE      .\pstchip.dat
+ Q9.2                           XY             (380,250)
+ Q10.2                          PRIM_FILE      .\pstchip.dat
+ Q10.2                          XY             (630,350)
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           XY             (630,20)
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           XY             (680,20)
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           XY             (140,70)
+ R4.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:/P1_Antoci/B - Proiect/allegro/P1_PCB.brd                                 |
+|                                                    Sat Dec 14 10:14:42 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R4.2                           XY             (840,70)
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           XY             (740,100)
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           XY             (200,160)
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           XY             (740,160)
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           XY             (840,170)
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           XY             (200,200)
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R10.2                          XY             (740,200)
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          XY             (500,220)
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          XY             (810,250)
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          XY             (170,270)
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          XY             (840,260)
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          XY             (100,290)
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          XY             (520,310)
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          XY             (740,300)
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          XY             (170,350)
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          XY             (470,340)
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          XY             (740,350)
+ R21.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          XY             (840,360)
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          XY             (310,390)
+ R23.2                          PRIM_FILE      .\pstchip.dat
+ R23.2                          XY             (740,410)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:/P1_Antoci/B - Proiect/allegro/P1_PCB.brd                                 |
+|                                                    Sat Dec 14 10:14:42 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      96                                        |
+|       Comp definitions added:      25                                        |
+|       Components added      :      42                                        |
+|       Slot property added   :      84                                        |
+|                                                                              |
+|   Total ECO changes reported:     247                                        |
+|------------------------------------------------------------------------------|

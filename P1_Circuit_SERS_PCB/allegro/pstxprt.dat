@@ -1,0 +1,472 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Dec-14-2024 at 10:14:54 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='P1_PCB';
+ POST_TIME='Nov  4 2024 10:21:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ D1 'D1N4148_DIOC2012X95N_D1N4148':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206749@DIODE.D1N4148.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206749@diode.\d1n4148.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206749@diode.\d1n4148.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,60)',
+ SECTION='';
+
+PART_NAME
+ D2 'D1N4148_DIOC2012X95N_D1N4148':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206865@DIODE.D1N4148.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206865@diode.\d1n4148.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206865@diode.\d1n4148.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,100)',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_0_DIOM2012X160M_5V,SMD2012B':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207045@P1_PCB.LED_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207045@p1_pcb.\led_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207045@p1_pcb.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,140)',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_0_DIOM2012X160M_5V,SMD2012B':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207179@P1_PCB.LED_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207179@p1_pcb.\led_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207179@p1_pcb.\led_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,190)',
+ SECTION='';
+
+PART_NAME
+ D5 'BZX84-C2V7_1_SOT95P230X110-3N_B':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207783@P1_PCB.BZX84-C2V7_1.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207783@p1_pcb.\bzx84-c2v7_1.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207783@p1_pcb.\bzx84-c2v7_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,380)',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_SMR2512_CON2':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS209304@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins209304@connector.\con2.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins209304@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(920,40)',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_SMR2512_CON2':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS208180@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins208180@connector.\con2.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins208180@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(10,50)',
+ SECTION='';
+
+PART_NAME
+ P1 'POT_2_TS53YL202MR10_2K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207415@P1_PCB.POT_2.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207415@p1_pcb.\pot_2.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207415@p1_pcb.\pot_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,250)',
+ SECTION='';
+
+PART_NAME
+ P2 'POT_2_TS53YL202MR10_2K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207697@P1_PCB.POT_2.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207697@p1_pcb.\pot_2.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207697@p1_pcb.\pot_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,350)',
+ SECTION='';
+
+PART_NAME
+ Q1 'QMJD31C_2_TO229P990X238-4N_QMJD':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206665@P1_PCB.QMJD31C_2.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206665@p1_pcb.\qmjd31c_2.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206665@p1_pcb.\qmjd31c_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(570,30)',
+ SECTION='';
+
+PART_NAME
+ Q10 'QBC846B_0_SOT95P230X110-3N_QBC8':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207727@P1_PCB.QBC846B_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207727@p1_pcb.\qbc846b_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207727@p1_pcb.\qbc846b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,350)',
+ SECTION='';
+
+PART_NAME
+ Q2 'QBC846B_0_SOT95P230X110-3N_QBC8':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206801@P1_PCB.QBC846B_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206801@p1_pcb.\qbc846b_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206801@p1_pcb.\qbc846b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,80)',
+ SECTION='';
+
+PART_NAME
+ Q3 'QBC846B_0_SOT95P230X110-3N_QBC8':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206827@P1_PCB.QBC846B_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206827@p1_pcb.\qbc846b_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206827@p1_pcb.\qbc846b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,90)',
+ SECTION='';
+
+PART_NAME
+ Q4 'QBC856B_0_SOT95P230X110-3N_QBC8':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206995@P1_PCB.QBC856B_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206995@p1_pcb.\qbc856b_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206995@p1_pcb.\qbc856b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(150,130)',
+ SECTION='';
+
+PART_NAME
+ Q5 'QBC856B_0_SOT95P230X110-3N_QBC8':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206937@P1_PCB.QBC856B_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206937@p1_pcb.\qbc856b_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206937@p1_pcb.\qbc856b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,120)',
+ SECTION='';
+
+PART_NAME
+ Q6 'QBC856B_0_SOT95P230X110-3N_QBC8':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206963@P1_PCB.QBC856B_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206963@p1_pcb.\qbc856b_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206963@p1_pcb.\qbc856b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,120)',
+ SECTION='';
+
+PART_NAME
+ Q7 'QBC856B_0_SOT95P230X110-3N_QBC8':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207137@P1_PCB.QBC856B_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207137@p1_pcb.\qbc856b_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207137@p1_pcb.\qbc856b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,170)',
+ SECTION='';
+
+PART_NAME
+ Q8 'QBC846B_0_SOT95P230X110-3N_QBC8':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207363@P1_PCB.QBC846B_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207363@p1_pcb.\qbc846b_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207363@p1_pcb.\qbc846b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,250)',
+ SECTION='';
+
+PART_NAME
+ Q9 'QBC846B_0_SOT95P230X110-3N_QBC8':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207389@P1_PCB.QBC846B_0.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207389@p1_pcb.\qbc846b_0.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207389@p1_pcb.\qbc846b_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,250)',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RESC2013X65N_0.47':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206537@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206537@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206537@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,20)',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RESC2013X65N_4.7K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207239@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207239@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207239@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,200)',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RESC2013X65N_100':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207281@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207281@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207281@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(500,220)',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RESC2013X65N_51':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207445@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207445@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207445@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,250)',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RESC2013X65N_47K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207491@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207491@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207491@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,270)',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RESC2013X65N_10':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS209182@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins209182@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins209182@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,260)',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RESC2013X65N_220':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207529@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207529@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207529@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,290)',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RESC2013X65N_2K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207599@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207599@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207599@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,310)',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RESC2013X65N_6.8K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207579@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207579@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207579@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,300)',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RESC2013X65N_47K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207677@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207677@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207677@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,350)',
+ SECTION='';
+
+PART_NAME
+ R19 'R_RESC2013X65N_510':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207655@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207655@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207655@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,340)',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RESC2013X65N_1':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206559@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206559@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206559@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,20)',
+ SECTION='';
+
+PART_NAME
+ R20 'R_RESC2013X65N_1K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207753@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207753@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207753@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,350)',
+ SECTION='';
+
+PART_NAME
+ R21 'R_RESC2013X65N_10':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS209198@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins209198@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins209198@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,360)',
+ SECTION='';
+
+PART_NAME
+ R22 'R_RESC2013X65N_330':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207823@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207823@discrete.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207823@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,390)',
+ SECTION='';
+
+PART_NAME
+ R23 'R_RESC2013X65N_150':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207845@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207845@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207845@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,410)',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RESC2013X65N_33':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206775@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206775@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206775@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(140,70)',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RESC2013X65N_10':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS209150@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins209150@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins209150@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,70)',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RESC2013X65N_680':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS206885@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins206885@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins206885@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,100)',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RESC2013X65N_22K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207095@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207095@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207095@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,160)',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RESC2013X65N_100':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207115@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207115@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207115@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,160)',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RESC2013X65N_10':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS209166@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins209166@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins209166@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,170)',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RESC2013X65N_22K':;
+
+SECTION_NUMBER 1
+ '@P1_PCB.SCHEMATIC1(SCH_1):INS207207@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@p1_pcb.schematic1(sch_1):ins207207@analog.\r.normal\(chips)',
+ P_PATH='@p1_pcb.schematic1(sch_1):page1_ins207207@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,200)',
+ SECTION='';
+
+END.

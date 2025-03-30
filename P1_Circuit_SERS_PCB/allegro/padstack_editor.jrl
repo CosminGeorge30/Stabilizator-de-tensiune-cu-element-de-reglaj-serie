@@ -1,0 +1,32 @@
+\t (00:00:00) padstack_editor 24.1 S001 (4250575) [11/4/2024] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Dec 14 10:50:40 2024
+\t (00:00:00)         Host=RARES-LAPTOP User=rares Pid=32708 CPUs=20
+\t (00:00:00) CmdLine= padstack_editor -mpssession rares -file C:/Users/rares/AppData/Local/Temp/#Taaaacu32952.tmp -pname S130 -data C:/Users/rares/AppData/Local/Temp/#Taaaacx32952.tmp
+\t (00:00:00) 
+\d (00:00:06) QtSignal GuidedDesignLayersTab PadWidth editingFinished "55.120"
+\d (00:00:08) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:08) QtSignal 1
+\d (00:00:09) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:09) QtSignal 1
+\d (00:00:09) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 0 "Regular Pad"
+\d (00:00:09) QtFillin Copy
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
+\d (00:00:09) QtSignal ""
+\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:12) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:12) QtSignal 1
+\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 0 "Regular Pad"
+\d (00:00:12) QtFillin Paste
+\d (00:00:12) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 ""
+\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
+\d (00:00:13) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:13) QtSignal 1
+\d (00:00:13) QtSignal GuidedMaskLayersTab LayersTable customContextMenuRequest 2 "Regular Pad"
+\d (00:00:13) QtFillin Paste
+\d (00:00:13) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 ""
+\d (00:00:17) QtSignal GuidedMaskLayersTab PadWidth editingFinished "50.120"
+\d (00:00:17) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:19) QtSignal MainWindow UpdateToDesignExit triggered
+\t (00:00:19)     Journal end - Sat Dec 14 10:51:00 2024

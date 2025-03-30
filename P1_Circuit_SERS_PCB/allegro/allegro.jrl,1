@@ -1,0 +1,103 @@
+\t (00:00:02) allegro 24.1 S001 (4251327) [11/6/2024] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun Jan 19 13:10:31 2025
+\t (00:00:02)         Host=DESKTOP-FRM90I7 User=Cosmin Pid=9468 CPUs=12
+\t (00:00:02) CmdLine= c:\cadence\orcadx_24.1\tools\bin\allegro.exe C:\Users\Cosmin\Desktop\P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad\Schematics\P1_Circuit_SERS_PCB\allegro\P1_PCB.brd
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "P1_PCB"
+\d (00:00:05) Design opened: C:/Users/Cosmin/Desktop/P1_2024_434D_Antoci_George-Cosmin_SERS_N1_Orcad/Schematics/P1_Circuit_SERS_PCB/allegro/P1_PCB.brd
+\t (00:00:05) Grids are drawn 20.00, 20.00 apart for enhanced viewing.
+\i (00:00:05) trapsize 1449
+\i (00:00:05) trapsize 1501
+\i (00:00:05) trapsize 1449
+\t (00:00:05) Grids are drawn 20.00, 20.00 apart for enhanced viewing.
+\i (00:00:05) trapsize 1121
+\i (00:00:05) trapsize 1121
+\t (00:00:05) > Sending response DoneOpenBoard
+\i (00:00:05) etchedit 
+\i (00:00:08) setwindow form.mini
+\i (00:00:08) FORM mini subclass BOTTOM 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) updateport CVPane
+\i (00:00:10) setwindow form.mini
+\i (00:00:10) FORM mini subclass TOP 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) updateport CVPane
+\i (00:00:10) setwindow form.mini
+\i (00:00:10) FORM mini subclass BOTTOM 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) updateport CVPane
+\i (00:00:19) setwindow form.mini
+\i (00:00:19) FORM mini class 'COMPONENT VALUE' 
+\i (00:00:23) FORM mini class BOUNDARY 
+\i (00:00:24) FORM mini class 'ANTI ETCH' 
+\i (00:00:26) FORM mini class ETCH 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged " Placement: TOP"
+\i (00:00:31) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated " Placement: TOP"
+\i (00:00:32) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged " Placement: BOTTOM"
+\i (00:00:32) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated " Placement: BOTTOM"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged " Placement: TOP"
+\i (00:00:34) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated " Placement: TOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:00:44) grid toggle 
+\i (00:00:44) etchedit 
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 225.25 755.49
+\i (00:00:45) trapsize 560
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 236.46 757.73
+\i (00:00:46) trapsize 1121
+\i (00:00:50) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged Off
+\i (00:00:50) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated Off
+\i (00:00:53) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged " Placement: BOTTOM"
+\i (00:00:53) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated " Placement: BOTTOM"
+\i (00:00:55) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged " Placement: TOP"
+\i (00:00:55) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated " Placement: TOP"
+\i (00:00:56) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged Off
+\i (00:00:56) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated Off
+\i (00:00:58) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SPTOP"
+\i (00:00:58) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SPTOP"
+\i (00:01:00) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SSTOP"
+\i (00:01:00) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SSTOP"
+\i (00:01:04) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:01:04) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:01:08) grid toggle 
+\i (00:01:08) etchedit 
+\i (00:01:09) grid toggle 
+\i (00:01:09) etchedit 
+\i (00:01:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: FAB"
+\i (00:01:12) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: FAB"
+\i (00:01:17) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:01:17) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:01:19) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BO"
+\i (00:01:19) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BO"
+\i (00:01:22) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMBOT"
+\i (00:01:22) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SMBOT"
+\i (00:01:24) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMTOP"
+\i (00:01:24) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SMTOP"
+\i (00:01:25) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SPTOP"
+\i (00:01:25) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SPTOP"
+\i (00:01:27) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SSTOP"
+\i (00:01:27) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SSTOP"
+\i (00:01:28) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:01:28) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: TOP"
+\i (00:01:31) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged
+\i (00:01:31) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:01:33) QtSignal ColorVisibilityPane CVPViewDropdown activated
+\i (00:01:34) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated Off
+\i (00:01:35) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:53) exit 
+\e (00:01:53) Do you want to save the changes you made to P1_PCB.brd?
+\i (00:01:54) fillin no 
+\t (00:01:54) Lic Summary:
+[13:12:24.461000] Cdslmd servers:C:\Users\Cosmin\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[13:12:24.465000] Feature usage summary:
+[13:12:24.465000] OrCAD_X_PCB_Professional_Plus
+[13:12:24.465000] OrCAD_X_Professional_Plus
+
+\t (00:01:54)     Journal end - Sun Jan 19 13:12:24 2025
